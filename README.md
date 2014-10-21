@@ -1,4 +1,5 @@
-## Similar solution for caching  computed inverse matrix is developed in cacheMatrix.R 
+# Similar solution as explained below is developed in source file cacheMatrix.R 
+# It does caching of computed inverse matrix  
 
 ### Introduction
 
