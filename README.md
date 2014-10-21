@@ -1,3 +1,5 @@
+## Similar solution for caching  computed inverse matrix is developed in cacheMatrix.R 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
